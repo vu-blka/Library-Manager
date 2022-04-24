@@ -1,0 +1,27 @@
+14603,Nguyen Van,Tai,Nam,0
+2130,Nguyen Luong,Vu,Nam,0
+1350,Sang,Phuoc,Nam,1
+2120,Tran Van,Long,Nam,1
+1655,Le Tan,Dung,Nam,1
+5249,Tran Hai,Nam,Nam,1
+4186,Nguyen Anh,Tu,Nam,1
+2214,Le Thi,Ngoc,Nu,1
+3776,Tran Ngoc,Anh,Nam,1
+5097,Le Van,Toan,Nam,1
+5021,Tran Thi,C,Nam,1
+11034,Tran Thi,Hoa,Nu,1
+6761,Le Van,Toan,Nam,0
+6665,Pham Hoang,Phuc,Nam,1
+7778,Tran Thi,Nhi,Nu,1
+7189,Nguyen Van,Teo,Nam,1
+6963,Le Thi,T,Nu,1
+8580,Nguyen Anh,Tu,Nam,1
+9884,Do Hai,Phuc,Nam,1
+9995,Tran Thai,Linh,Nam,1
+11605,Hai,Nam,Nam,1
+18783,Lu Vinh,Truon,Nam,1
+16251,Le Thi,Hoa,Nu,1
+17307,Nguyen Thi,Tam,Nu,1
+18770,Nguyen Thanh,Hai,Nam,1
+3200,Lutruong,Truong,Nam,1
+3900,Truong,Dep,Nam,1

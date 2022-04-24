@@ -1,0 +1,16 @@
+
+978-604-85-5183-4,Do Re Mon,90,Fujiko Fujio,2005,Truyen Tranh,ke Truyen Tranh,10
+978-604-46-5162-0,Dac Nhan Tam,213,Dale Carnegie,1870,Selfhelp,tu mot,15
+978-604-69-6744-6,Nha Gia Kim,200,Paulo Coelho,1976,Selfhelp,tu Hai,10
+978-604-43-4018-0,Hanh Trinh Ve Phuong Dong,300,Bair Spalding,1986,Truyen Ngan,tu Ba,15
+978-604-10-2266-9,Nhat Ki Code Dao,510,Jeft Atwood,2001,Lap Trinh,tu Bon,25
+978-604-30-7855-8,Huong Dan Lap Trinh C,493,Pham Van At,2013,Lap Trinh,tu Bon,11
+978-604-61-7114-0,Harry Potter,1028,J K Rowling,1982,Truyen Dai,tu nam,25
+978-604-89-1420-2,Tuoi Tre Dang Gia Bao Nhieu,198,Roise Nguyen,2006,Cuoc Song,tu Sau,15
+978-604-40-0764-9,Khi Hoi Tho Hoa Thinh Khong,304,Paul Kalanithi,2018,Cuoc Song,tu Sau,10
+978-604-23-3008-4,The Gioi Phang,284,Thomas L Friedman,2010,Cuoc Song,ke Bon,7
+978-604-70-6219-5,Ngay Xua Co Mot Con Bo,164,Camilo Cruz,2017,Selfhelp,tu Bay,10
+978-604-26-0626-4,Tiep Thi 4.0,55,Nguyen Khoa Hong,2016,Kinh Te,ke Nam,8
+978-604-37-1207-0,Sach Giao Khoa Toan,156,Tran Van Hao,1980,Sach Giao Khoa,Tu bon,15
+978-604-74-3020-8,Sach Giao Khoa Vat Ly 10,120,Luong Duyen Binh,1981,Sach Giao Khoa,ke Nam,10
+978-604-57-7026-9,Ngay Hom Qua,190,Nguyen Van A,1959,Ngay Hom Qua,Ke bay,15
